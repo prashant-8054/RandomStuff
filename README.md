@@ -1,4 +1,4 @@
 # RandomStuff
 Random stuff.
 <hr>
-Author - Prashant Kumar
+Author - Prashant K. Singh
